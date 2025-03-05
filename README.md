@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am Jayanth S R, currently pursuing my Master of Computer Applications (MCA) from Bangalore University. With a strong foundation in Java, SQL, and Web Technologies like HTML, CSS, and JavaScript, I am passionate about building efficient and dynamic applications.<br>Apart from academics, I have demonstrated leadership qualities as the Captain of my college Kabaddi team, leading the team to secure top positions in various tournaments. I have also showcased my athletic abilities by winning first place in district-level Hammer Throw competitions.
+**Reach out me at:** jayanthsr09@gmail.com
 
 
 ## 🌐 Socials:
